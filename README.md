@@ -1,6 +1,6 @@
 # BMIS 235 · HTML-1 · Styling: Hello World
 
-**Name:** YOUR NAME
+**Name:** Evan Sanders
 **GU username:** YOUR-GU-USERNAME
 
 My live page: https://YOUR-GITHUB-USERNAME.github.io/bmis235-html-1/
